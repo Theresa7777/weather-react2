@@ -18,7 +18,15 @@ li {
 }
 
 button {
-  background-color: blueviolet;
+  background-color: red;
+}
+
+p {
+  font-size: small;
+}
+
+a {
+  color: red;
 }
 
 @media (prefers-reduced-motion: no-preference) {
